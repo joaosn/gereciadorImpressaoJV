@@ -1,2 +1,2 @@
 # gereciadorImpressaoJV
-Gereciador de imprssão usando electron
+Gerenciador de imprssão usando electron
